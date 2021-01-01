@@ -1,6 +1,6 @@
 A Project for WUE-19 Changemakers Educations React course.
 
-Sorry for the master-tag. Old habit.....
+Uppdaterad från Notes-projektet som fanns här förut med nån kosmetisk ändring:).  
 
 /Andreas Ronvall
 
