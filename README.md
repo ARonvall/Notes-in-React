@@ -1,6 +1,8 @@
 A Project for WUE-19 Changemakers Educations React course.
 
-Uppdaterad från Notes-projektet som fanns här förut med nån kosmetisk ändring:).  
+Uppdaterad från Notes-projektet som fanns här förut med nån kosmetisk ändring.
+
+Till Arvin: Det är (i stort sett) samma projekt jag lämnade in några minuter för sent förra inlämningsgången:).
 
 /Andreas Ronvall
 
